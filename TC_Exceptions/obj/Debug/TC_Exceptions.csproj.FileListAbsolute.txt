@@ -1,0 +1,11 @@
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\bin\Debug\TC_Exceptions.exe.config
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\bin\Debug\TC_Exceptions.exe
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\bin\Debug\TC_Exceptions.pdb
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\obj\Debug\TC_Exceptions.csproj.AssemblyReference.cache
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\obj\Debug\TC_Exceptions.csproj.SuggestedBindingRedirects.cache
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\obj\Debug\TC_Exceptions.frmAddProduct.resources
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\obj\Debug\TC_Exceptions.Properties.Resources.resources
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\obj\Debug\TC_Exceptions.csproj.GenerateResource.cache
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\obj\Debug\TC_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\obj\Debug\TC_Exceptions.exe
+C:\Users\enric\source\repos\TC_Exceptions\TC_Exceptions\obj\Debug\TC_Exceptions.pdb
